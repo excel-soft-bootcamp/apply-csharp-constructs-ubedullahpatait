@@ -1,0 +1,9 @@
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\obj\Debug\CalculateBMI.csproj.CoreCompileInputs.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\bin\Debug\CalculateBMI.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\bin\Debug\CalculateBMI.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\bin\Debug\Input.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\bin\Debug\Input.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\obj\Debug\CalculateBMI.csproj.AssemblyReference.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\obj\Debug\CalculateBMI.csproj.CopyComplete
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\obj\Debug\CalculateBMI.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\CalculateBMI\obj\Debug\CalculateBMI.pdb
