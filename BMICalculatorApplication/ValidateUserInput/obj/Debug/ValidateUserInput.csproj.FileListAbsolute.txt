@@ -1,9 +1,0 @@
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\obj\Debug\ValidateUserInput.csproj.CoreCompileInputs.cache
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\bin\Debug\ValidateUserInput.dll
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\bin\Debug\ValidateUserInput.pdb
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\bin\Debug\CalculateBMI.dll
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\bin\Debug\CalculateBMI.pdb
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\obj\Debug\ValidateUserInput.csproj.AssemblyReference.cache
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\obj\Debug\ValidateUserInput.csproj.CopyComplete
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\obj\Debug\ValidateUserInput.dll
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\ValidateUserInput\obj\Debug\ValidateUserInput.pdb

@@ -1,0 +1,5 @@
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\CalculatorLib\bin\Debug\CalculatorLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\CalculatorLib\bin\Debug\CalculatorLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\CalculatorLib\obj\Debug\CalculatorLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\CalculatorLib\obj\Debug\CalculatorLib.pdb

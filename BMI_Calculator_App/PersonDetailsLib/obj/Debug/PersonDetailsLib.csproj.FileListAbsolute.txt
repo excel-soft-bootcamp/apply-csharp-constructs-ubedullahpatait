@@ -1,0 +1,10 @@
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\bin\Debug\PersonDetailsLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\bin\Debug\PersonDetailsLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\bin\Debug\InputValuesLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\bin\Debug\InputValuesLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\obj\Debug\PersonDetailsLib.csprojResolveAssemblyReference.cache
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\obj\Debug\PersonDetailsLib.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\obj\Debug\PersonDetailsLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\PersonDetailsLib\obj\Debug\PersonDetailsLib.pdb

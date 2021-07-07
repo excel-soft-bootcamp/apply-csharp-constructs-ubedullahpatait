@@ -1,6 +1,0 @@
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\Input\obj\Debug\Input.csproj.AssemblyReference.cache
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\Input\obj\Debug\Input.csproj.CoreCompileInputs.cache
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\Input\bin\Debug\Input.dll
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\Input\bin\Debug\Input.pdb
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\Input\obj\Debug\Input.dll
-C:\Users\ubedullah.patait\source\repos\BMICalculatorApplication\Input\obj\Debug\Input.pdb
