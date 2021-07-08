@@ -1,0 +1,9 @@
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\bin\Debug\BMIValueValidationLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\bin\Debug\BMIValueValidationLib.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\bin\Debug\BMIValueCalculationLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\bin\Debug\BMIValueCalculationLib.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\obj\Debug\BMIValueValidationLib.csproj.CoreCompileInputs.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\obj\Debug\BMIValueValidationLib.csproj.CopyComplete
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\obj\Debug\BMIValueValidationLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\obj\Debug\BMIValueValidationLib.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueValidationLib\obj\Debug\BMIValueValidationLib.csproj.AssemblyReference.cache

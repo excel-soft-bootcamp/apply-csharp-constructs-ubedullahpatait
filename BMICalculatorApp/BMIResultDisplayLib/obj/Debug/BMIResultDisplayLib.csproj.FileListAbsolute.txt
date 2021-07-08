@@ -1,0 +1,9 @@
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\bin\Debug\BMIResultDisplayLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\bin\Debug\BMIResultDisplayLib.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\bin\Debug\BMIValueValidationLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\bin\Debug\BMIValueValidationLib.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\obj\Debug\BMIResultDisplayLib.csproj.AssemblyReference.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\obj\Debug\BMIResultDisplayLib.csproj.CoreCompileInputs.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\obj\Debug\BMIResultDisplayLib.csproj.CopyComplete
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\obj\Debug\BMIResultDisplayLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIResultDisplayLib\obj\Debug\BMIResultDisplayLib.pdb

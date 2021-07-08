@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMICalculatorApp", "BMICalculatorApp\BMICalculatorApp.csproj", "{2104512F-1566-472C-87D3-F84ABDA595D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIUserInputLib", "BMIUserInputLib\BMIUserInputLib.csproj", "{EC4141F4-28AA-4D29-855F-3FDD717E4FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIValueCalculationLib", "BMIValueCalculationLib\BMIValueCalculationLib.csproj", "{D691FA3A-2BCB-44B5-A781-7116C7A5A067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIValueValidationLib", "BMIValueValidationLib\BMIValueValidationLib.csproj", "{CC706BCF-9D05-4BDC-874D-DA729B5005DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIResultDisplayLib", "BMIResultDisplayLib\BMIResultDisplayLib.csproj", "{9E379B9D-1A24-45E6-A33A-A46432F74243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2104512F-1566-472C-87D3-F84ABDA595D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2104512F-1566-472C-87D3-F84ABDA595D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2104512F-1566-472C-87D3-F84ABDA595D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2104512F-1566-472C-87D3-F84ABDA595D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4141F4-28AA-4D29-855F-3FDD717E4FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4141F4-28AA-4D29-855F-3FDD717E4FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4141F4-28AA-4D29-855F-3FDD717E4FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4141F4-28AA-4D29-855F-3FDD717E4FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D691FA3A-2BCB-44B5-A781-7116C7A5A067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D691FA3A-2BCB-44B5-A781-7116C7A5A067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D691FA3A-2BCB-44B5-A781-7116C7A5A067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D691FA3A-2BCB-44B5-A781-7116C7A5A067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC706BCF-9D05-4BDC-874D-DA729B5005DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC706BCF-9D05-4BDC-874D-DA729B5005DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC706BCF-9D05-4BDC-874D-DA729B5005DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC706BCF-9D05-4BDC-874D-DA729B5005DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E379B9D-1A24-45E6-A33A-A46432F74243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E379B9D-1A24-45E6-A33A-A46432F74243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E379B9D-1A24-45E6-A33A-A46432F74243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E379B9D-1A24-45E6-A33A-A46432F74243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08136643-3B1F-47DE-835A-9D433BD29345}
+	EndGlobalSection
+EndGlobal

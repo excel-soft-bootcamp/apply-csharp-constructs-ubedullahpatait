@@ -1,0 +1,6 @@
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIUserInputLib\bin\Debug\BMIUserInputLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIUserInputLib\bin\Debug\BMIUserInputLib.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIUserInputLib\obj\Debug\BMIUserInputLib.csproj.AssemblyReference.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIUserInputLib\obj\Debug\BMIUserInputLib.csproj.CoreCompileInputs.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIUserInputLib\obj\Debug\BMIUserInputLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIUserInputLib\obj\Debug\BMIUserInputLib.pdb
