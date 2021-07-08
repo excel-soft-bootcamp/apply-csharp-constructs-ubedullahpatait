@@ -1,0 +1,8 @@
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\InputValuesLib\bin\Debug\InputValuesLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\InputValuesLib\bin\Debug\InputValuesLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\InputValuesLib\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\InputValuesLib\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\InputValuesLib\obj\Debug\InputValuesLib.csprojResolveAssemblyReference.cache
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\InputValuesLib\obj\Debug\InputValuesLib.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\InputValuesLib\obj\Debug\InputValuesLib.dll
+C:\Users\srinivas.kv\source\repos\BMI_Calculator_App\BMI_Calculator\InputValuesLib\obj\Debug\InputValuesLib.pdb
