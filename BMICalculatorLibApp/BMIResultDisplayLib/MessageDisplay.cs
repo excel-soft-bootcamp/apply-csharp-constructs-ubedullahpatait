@@ -9,10 +9,16 @@ namespace BMIResultDisplayLib
     public class MessageDisplay
     {
 
-        public void Display(string message)
+        public static void Display(string message)
         {
 
             Console.WriteLine(message);
+        }
+
+        public static double ReadFromConsole()
+        {
+            double value = Convert.ToDouble(Console.ReadLine());
+            return value;
         }
 
     }

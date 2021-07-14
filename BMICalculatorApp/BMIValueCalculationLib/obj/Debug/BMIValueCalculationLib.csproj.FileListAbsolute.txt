@@ -1,0 +1,9 @@
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\bin\Debug\BMIValueCalculationLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\bin\Debug\BMIValueCalculationLib.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\bin\Debug\BMIUserInputLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\bin\Debug\BMIUserInputLib.pdb
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\obj\Debug\BMIValueCalculationLib.csproj.AssemblyReference.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\obj\Debug\BMIValueCalculationLib.csproj.CoreCompileInputs.cache
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\obj\Debug\BMIValueCalculationLib.csproj.CopyComplete
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\obj\Debug\BMIValueCalculationLib.dll
+C:\Users\ubedullah.patait\source\repos\BMICalculatorApp\BMIValueCalculationLib\obj\Debug\BMIValueCalculationLib.pdb
