@@ -7,12 +7,21 @@ namespace BMICalculator
         {
 
 
-            Display input = new Display();
-            float showMessage = input.UserInput();
+            ConsoleInput input = new ConsoleInput();
+            double height = input.GetUserHeight();
+            double weight = input.GetUserWeight();
 
-            ValidateUserInput validateStatus = new ValidateUserInput();
-            String display = validateStatus.DisplayMessage(showMessage);
-            Console.WriteLine("Check Status " + display);
+            CalculateBMI calculateRef = new CalculateBMI();
+            double bmiValue = calculateRef.BmiCalculation(height, weight);
+
+            ValidateUserInput validatRef = new ValidateUserInput();
+            string result = validatRef.CheckBmiValue(bmiValue);
+
+            Display displayRef = new Display();
+            displayRef.ConsoleDisplay(result);
+
+
+            Console.ReadKey();
         }
     }
 }

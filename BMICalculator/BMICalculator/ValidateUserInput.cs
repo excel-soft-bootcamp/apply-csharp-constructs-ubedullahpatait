@@ -9,11 +9,11 @@ namespace BMICalculator
     class ValidateUserInput
     {
 
-        public String DisplayMessage(float bmi)
+        public string CheckBmiValue(double bmiValue)
         {
-            if (bmi < 18.5)
+            if (bmiValue < 18.5)
                 return "underweight";
-            else if (bmi >= 25)
+            else if (bmiValue >= 25)
                 return "overweight";
             else
               return "healthy";

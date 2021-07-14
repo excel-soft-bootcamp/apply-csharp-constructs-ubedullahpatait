@@ -8,10 +8,10 @@ namespace BMICalculator
 {
     class CalculateBMI
     {
-        public float Calculate(float height, float weight)
+        public double BmiCalculation(double height, double weight)
         {
-            float BMI = weight / height;
-            return BMI;
+            double bmiValue = weight / height;
+            return bmiValue;
         }
     }
 }

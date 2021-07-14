@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CalculateBMI.cs" />
+    <Compile Include="ConsoleInput.cs" />
     <Compile Include="Display.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

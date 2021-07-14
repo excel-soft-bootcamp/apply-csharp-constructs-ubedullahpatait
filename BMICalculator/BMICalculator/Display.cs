@@ -8,17 +8,12 @@ namespace BMICalculator
 {
     class Display
     {
-        public float UserInput()
+        public void ConsoleDisplay(string message)
         {
-            Console.WriteLine("Enter height in meters ");
-            float height = float.Parse(Console.ReadLine());
-            Console.WriteLine("Enter weight in KG ");
-            float weight = float.Parse(Console.ReadLine());
 
-            CalculateBMI bmi = new CalculateBMI();
-            float calculateHeightAndWeight = bmi.Calculate(height, weight);
-
-            return calculateHeightAndWeight;
+            Console.WriteLine(message);
         }
+
+
     }
 }
