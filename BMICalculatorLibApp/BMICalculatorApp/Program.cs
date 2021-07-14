@@ -75,8 +75,8 @@ namespace BMICalculatorApp
                                        
 
                                     String Result = _validate.CheckBmiValue(_bmiValue);
-                                     Console.WriteLine("Name\tHeight\tWeight\tResult\t");
-                                    Console.WriteLine(name + "    " + height + "          " + weight + "    " + Result);
+                                  Console.WriteLine("Name\tHeight\tWeight\tResult\t");
+                                    Console.WriteLine(name + "    " + height + "       " + weight + "    " + Result);
                                 }
                                 }
 
